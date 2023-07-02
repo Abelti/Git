@@ -2,4 +2,14 @@ body {
     color: blueviolet;
     font-family: 'Times New Roman', Times, serif;
     background: yellowgreen;
+    font-style: italic;
+}
+
+button.hover {
+    background-color: aliceblue;
+    color: brown;
+}
+
+button.click {
+    color: yellow;
 }
